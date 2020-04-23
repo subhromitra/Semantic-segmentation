@@ -1,2 +1,3 @@
 # Semantic-segmentation
-This repo contains my experiments on semantic segmentation
+
+Currently it contains just the code ofr building a UNet model
