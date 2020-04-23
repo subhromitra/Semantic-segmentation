@@ -1,3 +1,3 @@
 # Semantic-segmentation
 
-Currently it contains just the code ofr building a UNet model
+Currently it contains just the code for building a UNet model
